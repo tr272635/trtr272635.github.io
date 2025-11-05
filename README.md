@@ -3,9 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>自我介紹範本</title>
+  <title>自我介紹</title>
   <style>
-    /* 簡潔、易讀的樣式，方便課堂作業使用 */
     :root{--primary:#0b74de;--muted:#666;--bg:#fff}
     *{box-sizing:border-box}
     body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Noto Sans TC',Arial,Helvetica,sans-serif;margin:0;background:var(--bg);color:#222;line-height:1.5}
@@ -46,7 +45,7 @@
   </style>
 </head>
 <body>
-  <!-- 頂部選單：可依課堂需求修改連結 -->
+  <!-- 頂部選單 -->
   <header class="topnav">
     <div class="brand">陳冠廷的頁面</div>
     <nav class="menu" aria-label="主要選單">
